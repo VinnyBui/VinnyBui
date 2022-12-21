@@ -1,4 +1,4 @@
-# Hi my name is Vinh B
+# Hi my name is Vinh
 <p>4th-year Computer Science Major studying at California State Fullerton looking for experience and internship
 position in software engineering. Aspiring to become a front-end web developer but is open to any opportunities</p>
 

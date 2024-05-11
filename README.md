@@ -1,5 +1,5 @@
 # Hi my name is Vinh
-<p>4th-year Computer Science Major studying at California State Fullerton looking for experience and internship
+<p>5th-year Computer Science Major studying at California State Fullerton looking for experience and internship
 position in software engineering. Aspiring to become a front-end web developer but is open to any opportunities</p>
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=VinnyBui&show_icons=true&theme=tokyonight" />
